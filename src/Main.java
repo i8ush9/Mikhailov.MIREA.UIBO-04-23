@@ -16,6 +16,6 @@ public class Main {
         System.out.println("Задание номер 5");
         Task5 task5= new Task5();
         task5.FUCKtorial();
-        System.out.println("\n");
+        System.out.println("anus\n");
     }
 }
