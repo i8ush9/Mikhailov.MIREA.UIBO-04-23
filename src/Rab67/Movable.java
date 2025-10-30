@@ -1,8 +1,9 @@
-package Rab56;
+package Rab67;
 
 public interface Movable {
-    void maveUp();
-    void maveDown();
-    void maveLeft();
-    void maveRight();
+    void moveUp();
+    void moveDown();
+    void moveLeft();
+    void moveRight();
+
 }
