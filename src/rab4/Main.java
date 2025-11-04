@@ -20,7 +20,7 @@ public class Main {
         YearNames temp = YearNames.SPRING;
 
         YearNames favorite = YearNames.SPRING;
-        System.out.println("Любимое время года - " + favorite + );
+        System.out.println("Любимое время года - " + favorite );
 
 
     }
